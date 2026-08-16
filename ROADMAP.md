@@ -51,7 +51,7 @@ It's grounded in:
 > 💼 **What Tier 1 companies actually assess** in Staff interviews (not what they say)
 
 > 🏪 **Patterns from successful transitions** at scale companies  
-> (Google, Amazon, Meta, Apple, SAP, Zalando, etc.)
+> (Google, Amazon, Meta, Apple, Microsoft, etc.)
 
 > 🔧 **Modern software engineering practices**  
 > (concurrency, event-driven design, testing strategies, cloud-native patterns)
