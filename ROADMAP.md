@@ -13,7 +13,7 @@
 | Aspect | Details |
 |--------|---------|
 | **Target** | Senior engineers → Staff & Principal roles |
-| **Timeline** | Self-paced (6-12 months typical) |
+| **Pace** | Self-paced, no fixed timeline |
 | **Level** | Advanced |
 | **Scope** | Universal across all tech stacks |
 
@@ -614,7 +614,7 @@ You must complete these projects to credibly claim staff-level expertise:
 **What:** Mentor engineers and grow them visibly
 
 **Scope:**
-🎓 Mentor 1-2 senior engineers for 6+ months
+🎓 Mentor 1-2 senior engineers through sustained growth
 📊 Set clear goals and track progress
 ⭐ Mentee should level up visibly (skills, projects, visibility)
 
@@ -733,12 +733,12 @@ Prepare **STAR stories** for:
 
 ### ⏱️ By Time Availability
 
-| Availability | Timeline | Approach |
-|-------------|----------|----------|
-| 📌 30+ hrs/week | 6-9 months | Full roadmap |
-| 📌 15-20 hrs/week | 12-15 months | Follow in order |
-| 📌 8-12 hrs/week | 18-24 months | Focus on top priorities |
-| 📌 5-8 hrs/week | 24+ months | Focus on communication + one pillar |
+| Availability | Approach |
+|-------------|----------|
+| 📌 **Intensive (30+ hrs/week)** | Cover full roadmap comprehensively |
+| 📌 **Moderate (15-20 hrs/week)** | Follow stages in order, deliberate pace |
+| 📌 **Part-time (8-12 hrs/week)** | Focus on top priorities by role |
+| 📌 **Minimal (5-8 hrs/week)** | Focus on communication & one core pillar |
 
 ---
 
@@ -799,11 +799,11 @@ By the end of this roadmap, you should be able to show:
 ## 🚀 Getting Started
 
 1. **Choose your starting stage** based on current gaps
-2. **Estimate your time availability** per week
+2. **Assess your time availability** and pick an approach
 3. **Adapt the roadmap** to your circumstances
-4. **Schedule time blocks** (recurring calendar blocks help!)
+4. **Schedule learning time** (consistent blocks help!)
 5. **Find accountability** (mentor, peer, manager, community)
-6. **Start TODAY** (not next week, not next month!)
+6. **Start now** with what you choose
 
 ---
 
@@ -822,11 +822,10 @@ This roadmap shows you how. **The hard part isn't understanding what to do; it's
 
 ---
 
-## 📝 Footer
+---
 
-**Version:** 2.1  
-**Created:** August 2026  
-**Updated:** August 2026  
+**Author:** Professor Caramel (Alireza)  
+**For:** Engineers at Tier 1 companies seeking Staff & Principal roles  
 
 *Updated with DSA as core pillar, self-paced structure, modern practices (TDD, BDD, EDD, concurrency), removed Scala topics, removed self-assessment, improved visual design and UX*
 
