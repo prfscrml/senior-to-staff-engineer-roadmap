@@ -999,14 +999,6 @@ Prepare **STAR stories** for:
 - **IC Staff Engineer:** Follow roadmap as written (technical + influence balance)
 - **Principal Engineer:** Add emphasis on strategy, business impact, recognition
 - **Technical Director/VP:** Add emphasis on organizational design, people leadership
-## 🚀 Getting Started
-
-1. **Choose your starting stage** based on current gaps
-2. **Assess your time availability** and pick an approach
-3. **Adapt the roadmap** to your circumstances
-4. **Schedule learning time** (consistent blocks help!)
-5. **Find accountability** (mentor, peer, manager, community)
-6. **Start now** with what you choose
 
 ---
 
