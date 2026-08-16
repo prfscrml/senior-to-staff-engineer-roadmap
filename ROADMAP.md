@@ -73,7 +73,7 @@ It's grounded in:
 
 ### 👥 The Staff Engineer Archetype
 
-Staff engineers typically fill one or more of these roles *(from Will Larson's model)*:
+Staff engineers typically fill one or more of these roles *(from [Will Larson's "Staff Engineer" model](https://staffeng.com/))*:
 
 <br>
 
@@ -393,8 +393,8 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Basic algorithm patterns: sorting, searching, simple DP
 
 **Learning Activities:**
-- [ ] Read: "Introduction to Algorithms" (CLRS) - Chapters 1-10, 20-22
-  - OR "Algorithm Design Manual" by Skiena - Chapters 1-3
+- [ ] Read: ["Introduction to Algorithms"](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/) (CLRS) - Chapters 1-10, 20-22
+  - OR ["Algorithm Design Manual"](https://www.algorist.com/) by Skiena - Chapters 1-3
   - ⏱️ Time: 15-20 hours
 - [ ] Implement: All core data structures from scratch
   - Create a DSA library with clean implementations
@@ -404,7 +404,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
   - ⏱️ Time: 20-30 hours
 - [ ] Reflection: Write notes on "When to use X data structure"
 
-**Resources:** 📚 LeetCode, NeetCode, AlgoExpert, GeeksforGeeks
+**Resources:** 📚 [LeetCode](https://leetcode.com/), [NeetCode](https://neetcode.io/), [AlgoExpert](https://www.algoexpert.io/), [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 ---
 
@@ -418,7 +418,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Test quality metrics: coverage and mutation testing
 
 **Learning Activities:**
-- [ ] Read: "Test Driven Development: By Example" by Kent Beck
+- [ ] Read: ["Test Driven Development: By Example"](https://www.oreilly.com/library/view/test-driven-development/0201616224/) by Kent Beck
   - ⏱️ Time: 6-8 hours
 - [ ] Study: Testing your language's ecosystem
   - ⏱️ Time: 3-4 hours
@@ -438,7 +438,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Memory visibility and the memory model
 
 **Learning Activities:**
-- [ ] Read: "Java Concurrency in Practice" by Goetz et al. (Chapters 1-6)
+- [ ] Read: ["Java Concurrency in Practice"](https://jcip.net/) by Goetz et al. (Chapters 1-6)
   - ⏱️ Time: 8-12 hours
 - [ ] Understand: Your language's concurrency model
   - ⏱️ Time: 4-6 hours
@@ -456,7 +456,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - At-least-once vs exactly-once semantics
 
 **Learning Activities:**
-- [ ] Read: "Designing Event-Driven Systems" by Ben Stopford (Chapters 1-6)
+- [ ] Read: ["Designing Event-Driven Systems"](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038009/) by Ben Stopford (Chapters 1-6)
   - ⏱️ Time: 8-10 hours
 - [ ] Hands-on: Build a simple event-sourced system
   - ⏱️ Time: 6-8 hours
@@ -472,7 +472,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Correlation IDs and context propagation
 
 **Learning Activities:**
-- [ ] Read: "Observability Engineering" by Yuri Shkuro & Charity Majors (Ch. 1-4)
+- [ ] Read: ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/) by Yuri Shkuro & Charity Majors (Ch. 1-4)
   - ⏱️ Time: 6-8 hours
 - [ ] Hands-on: Instrument a service
   - ⏱️ Time: 4-6 hours
@@ -511,70 +511,70 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 #### 🥇 Tier 1: Foundational (Read All)
 
-1. **"Designing Data-Intensive Applications"** by Martin Kleppmann
+1. **["Designing Data-Intensive Applications"](https://dataintensive.net/)** by Martin Kleppmann
    - 📌 Coverage: Distributed systems, consistency, performance, architecture
    - ⏱️ Time: 30-40 hours
    - 🎯 Impact: **Single most important book** for staff engineers
 
-2. **"Staff Engineer"** by Will Larson
+2. **["Staff Engineer"](https://staffeng.com/)** by Will Larson
    - 📌 Coverage: What staff engineers do, archetypes, leveling strategies
    - ⏱️ Time: 4-5 hours
    - 🎯 Impact: Clarifies the role and how to be effective
 
-3. **"Introduction to Algorithms"** (CLRS) by Cormen et al.
+3. **["Introduction to Algorithms"](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)** (CLRS) by Cormen, Leiserson, Rivest & Stein
    - 📌 Coverage: Comprehensive DSA reference
    - ⏱️ Time: 40-60 hours (selective)
    - 🎯 Impact: Essential algorithmic foundation
 
-4. **"The Mythical Man-Month"** by Fred Brooks
+4. **["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)** by Fred Brooks
    - 📌 Coverage: Systems thinking, organizational dynamics, design
    - ⏱️ Time: 8-10 hours
    - 🎯 Impact: Teaches thinking about large systems and people
 
-5. **"Java Concurrency in Practice"** by Goetz et al. *(if JVM)*
+5. **["Java Concurrency in Practice"](https://jcip.net/)** by Goetz, Peierls, Bloch, Bowbeer, Holmes & Lea *(if JVM)*
    - 📌 Coverage: Concurrency, memory models, synchronization, performance
    - ⏱️ Time: 12-15 hours
    - 🎯 Impact: Essential for JVM systems at scale
 
 #### 🥈 Tier 2: Important (Read Based on Focus)
 
-- "Algorithm Design Manual" by Steven Skiena (practical DSA)
-- "Designing Event-Driven Systems" by Ben Stopford (event-driven architecture)
-- "The Art of Scalability" by Abbott & Fisher (scalability patterns)
-- "Release It!" by Michael Nygard (reliability and operations)
-- "Test Driven Development: By Example" by Kent Beck (TDD)
-- "Growing Object-Oriented Software, Guided by Tests" by Pryce & Freeman
-- "The Site Reliability Engineering Book" by Google (SRE practices)
-- "Building Microservices" by Sam Newman (distributed patterns)
+- ["Algorithm Design Manual"](https://www.algorist.com/) by Steven Skiena (practical DSA)
+- ["Designing Event-Driven Systems"](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038009/) by Ben Stopford (event-driven architecture)
+- ["The Art of Scalability"](https://www.scalability.org/) by Abbott & Fisher (scalability patterns)
+- ["Release It!"](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard (reliability and operations)
+- ["Test Driven Development: By Example"](https://www.oreilly.com/library/view/test-driven-development/0201616224/) by Kent Beck (TDD)
+- ["Growing Object-Oriented Software, Guided by Tests"](https://www.oreilly.com/library/view/growing-object-oriented-software/9780321503626/) by Pryce & Freeman
+- ["The Site Reliability Engineering Book"](https://sre.google/books/) by Google (SRE practices)
+- ["Building Microservices"](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) by Sam Newman (distributed patterns)
 
 #### 🥉 Tier 3: Specialized (Read Based on Interest)
 
-- "Systems Performance" by Brendan Gregg (performance analysis)
-- "Observability Engineering" by Yuri Shkuro & Charity Majors
-- "Chaos Engineering" by Casey Rosenthal & Nora Jones
-- "Excellent Advice for Writing" by Butcher (technical writing)
-- "Crucial Conversations" by Patterson et al. (communication)
+- ["Systems Performance"](https://www.brendangregg.com/systems-performance-2nd-edition.html) by Brendan Gregg (performance analysis)
+- ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/) by Yuri Shkuro & Charity Majors
+- ["Chaos Engineering"](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/) by Casey Rosenthal & Nora Jones
+- ["Excellent Advice for Writing"](https://www.penguinrandomhouse.com/books/717347/excellent-advice-for-writing/) by Butcher (technical writing)
+- ["Crucial Conversations"](https://www.vitalsmarts.com/crucial-conversations/) by Patterson, Grenny, McMillan & Switzler (communication)
 
 ### 📄 Key Academic Papers
 
-- 📋 "The Raft Consensus Algorithm" - Ongaro & Ousterhout
-- 📋 "Paxos Made Simple" - Lamport
-- 📋 "Dynamo: Amazon's Highly Available Key-value Store" - DeCandia et al.
-- 📋 "Consistent Hashing and Random Trees" - Karger et al.
-- 📋 "Bigtable: A Distributed Storage System" - Chang et al.
-- 📋 "The Google File System" - Ghemawat et al.
-- 📋 "MapReduce: Simplified Data Processing" - Dean & Ghemawat
+- 📋 ["The Raft Consensus Algorithm"](https://raft.github.io/raft.pdf) - Ongaro & Ousterhout
+- 📋 ["Paxos Made Simple"](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf) - Lamport
+- 📋 ["Dynamo: Amazon's Highly Available Key-value Store"](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) - DeCandia et al.
+- 📋 ["Consistent Hashing and Random Trees"](https://www.akamai.com/us/en/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-pdf.pdf) - Karger et al.
+- 📋 ["Bigtable: A Distributed Storage System"](https://research.google/pubs/bigtable-a-distributed-storage-system-for-structured-data/) - Chang et al.
+- 📋 ["The Google File System"](https://research.google/pubs/the-google-file-system/) - Ghemawat et al.
+- 📋 ["MapReduce: Simplified Data Processing"](https://research.google/pubs/mapreduce-simplified-data-processing-on-large-clusters/) - Dean & Ghemawat
 
 ### 🌐 Online Learning Resources
 
 | Resource | Purpose |
 |:---|:---|
-| **LeetCode, NeetCode, AlgoExpert** | Algorithm & DSA practice |
-| **ByteByteGo, Exponent, TechMock** | System Design Interview Prep |
-| **HighScalability.com** | System design case studies |
-| **Netflix, Uber, Airbnb Engineering Blogs** | Large-scale systems |
-| **OpenTelemetry, Jaeger docs** | Observability tools |
-| **Your language's official docs** | Language/Framework details |
+| [**LeetCode**](https://leetcode.com/), [**NeetCode**](https://neetcode.io/), [**AlgoExpert**](https://www.algoexpert.io/) | Algorithm & DSA practice |
+| [**ByteByteGo**](https://www.bytebyteandgo.com/), [**Exponent**](https://www.tryexponent.com/), [**TechMock**](https://www.techmockinterview.com/) | System Design Interview Prep |
+| [**HighScalability**](http://highscalability.com/) | System design case studies |
+| [**Netflix Tech**](https://netflix.techblog.com/), [**Uber Engineering**](https://www.uber.com/en-US/blog/engineering/), [**Airbnb Engineering**](https://medium.com/airbnb-engineering) | Large-scale systems |
+| [**OpenTelemetry**](https://opentelemetry.io/), [**Jaeger**](https://www.jaegertracing.io/) | Observability tools |
+| Official language docs | Language/Framework details |
 
 ---
 
