@@ -18,14 +18,14 @@
 
 ## 📑 Table of Contents
 
-- [🎯 Introduction](#introduction)
-- [💡 What Staff & Principal Actually Means](#what-staff--principal-actually-means)
-- [🏛️ Six Core Pillars](#six-core-pillars)
-- [📚 Learning Path Structure](#learning-path-structure)
-- [📖 Essential Reading & Resources](#essential-reading--resources)
-- [🏗️ Project Deliverables](#project-deliverables)
-- [🎤 Interview Preparation](#interview-preparation)
-- [⚙️ Adaptation Guide](#adaptation-guide)
+- [🎯 Introduction](#-introduction)
+- [💡 What Staff & Principal Actually Means](#-what-staff--principal-actually-means)
+- [🏛️ Six Core Pillars](#-six-core-pillars)
+- [📚 Learning Path Structure](#-learning-path-structure)
+- [📖 Essential Reading & Resources](#-essential-reading--resources)
+- [🏗️ Project Deliverables](#-project-deliverables)
+- [🎤 Interview Preparation](#-interview-preparation)
+- [⚙️ Adaptation Guide](#-adaptation-guide)
 
 ---
 
