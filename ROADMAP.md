@@ -10,17 +10,17 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [What Staff/Principal Actually Means](#what-is-staff)
-3. [Six Core Pillars](#six-pillars)
-4. [Learning Path Structure](#learning-path)
-5. [Essential Reading & Resources](#resources)
-6. [Project Deliverables](#projects)
-7. [Interview Preparation](#interviews)
-8. [Adaptation Guide](#adaptation)
+2. [What Staff/Principal Actually Means](#what-staffprincipal-actually-means)
+3. [Six Core Pillars](#six-core-pillars)
+4. [Learning Path Structure](#learning-path-structure)
+5. [Essential Reading & Resources](#essential-reading--resources)
+6. [Project Deliverables](#project-deliverables)
+7. [Interview Preparation](#interview-preparation)
+8. [Adaptation Guide](#adaptation-guide)
 
 ---
 
-## Introduction {#introduction}
+## Introduction
 
 This roadmap represents a comprehensive path for transitioning from Senior to Staff/Principal engineer roles at Tier 1 companies. It's based on:
 
@@ -33,7 +33,7 @@ This is a template. Adapt it to your circumstances, learning style, and current 
 
 ---
 
-## What Staff/Principal Actually Means {#what-is-staff}
+## What Staff/Principal Actually Means
 
 ### The Staff Engineer Archetype
 
@@ -61,7 +61,7 @@ Interviewers evaluate you on:
 
 ---
 
-## Six Core Pillars {#six-pillars}
+## Six Core Pillars
 
 Every senior → staff transition requires strength in these six areas. Build them in parallel and interconnected:
 
@@ -240,7 +240,7 @@ Every senior → staff transition requires strength in these six areas. Build th
 
 ---
 
-## Learning Path Structure {#learning-path}
+## Learning Path Structure
 
 This roadmap is organized into five stages. Progress through them at your own pace, but maintain roughly this order (later stages build on earlier ones).
 
@@ -959,7 +959,7 @@ This roadmap is organized into five stages. Progress through them at your own pa
 
 ---
 
-## Essential Reading & Resources {#resources}
+## Essential Reading & Resources
 
 ### Must-Read Books (Prioritized by Impact)
 
@@ -1057,7 +1057,7 @@ This roadmap is organized into five stages. Progress through them at your own pa
 
 ---
 
-## Project Deliverables {#projects}
+## Project Deliverables
 
 You must complete these projects to credibly claim staff-level expertise:
 
@@ -1193,7 +1193,7 @@ You must complete these projects to credibly claim staff-level expertise:
 
 ---
 
-## Interview Preparation {#interviews}
+## Interview Preparation
 
 ### System Design Interview Pattern
 
@@ -1310,7 +1310,7 @@ For each target company:
 
 ---
 
-## Adaptation Guide {#adaptation}
+## Adaptation Guide
 
 This roadmap is a template. Adapt it based on your context:
 
