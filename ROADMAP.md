@@ -95,7 +95,7 @@ Staff engineers typically fill one or more of these roles *(from [Will Larson's 
 
 ### 🎯 The Staff Engineer Interview Assessment Framework
 
-Interviewers evaluate you across eight key dimensions:
+Based on [Will Larson's "Staff Engineer"](https://staffeng.com/) and industry interview practices, interviewers evaluate you across eight key dimensions:
 
 <br>
 
