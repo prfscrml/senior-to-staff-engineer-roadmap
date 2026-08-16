@@ -237,10 +237,10 @@ You need to be an expert in your core technology, understanding internals and ma
 | 🧠 **Memory Model** | How the JMM works, visibility, ordering, volatile, synchronized, happens-before rules |
 | 🗑️ **Garbage Collection** | GC algorithms (generational, mark-sweep, concurrent, incremental), pause times, GC tuning, GC overhead |
 | ⚡ **Performance** | JIT compilation, inlining, escape analysis, branch prediction, cache efficiency |
-| ✨ **Modern Features** | Project Loom (virtual threads), Project Panama (FFI), Project Valhalla (value types), records, sealed classes, pattern matching |
-| 🏗️ **Frameworks** | Spring Boot internals, dependency injection, autoconfiguration, when to use Spring vs when not to |
-| ✅ **Testing Frameworks** | JUnit, TestNG, Mockito, AssertJ; integration testing, performance testing |
-| 🔨 **Build Tools** | Maven, Gradle; dependency management; build optimization |
+| ✨ **Modern Features** | Virtual threads/lightweight concurrency, Foreign Function Interface (FFI), value types, pattern matching, functional programming extensions |
+| 🏗️ **Frameworks** | Framework architecture & internals, dependency injection patterns, configuration management, framework vs custom code trade-offs |
+| ✅ **Testing Frameworks** | Unit testing strategies, mocking & stubbing patterns, integration testing, performance testing methodologies |
+| 🔨 **Build Tools** | Build automation, dependency management, artifact repositories, build optimization techniques |
 
 #### For Kotlin Engineers:
 
@@ -554,7 +554,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 | [**ByteByteGo**](https://www.bytebyteandgo.com/), [**Exponent**](https://www.tryexponent.com/), [**TechMock**](https://www.techmockinterview.com/) | System Design Interview Prep |
 | [**HighScalability**](http://highscalability.com/) | System design case studies |
 | [**Netflix Tech**](https://netflix.techblog.com/), [**Uber Engineering**](https://www.uber.com/en-US/blog/engineering/), [**Airbnb Engineering**](https://medium.com/airbnb-engineering) | Large-scale systems |
-| [**OpenTelemetry**](https://opentelemetry.io/), [**Jaeger**](https://www.jaegertracing.io/) | Observability tools |
+| [**Observability Engineering**](https://www.oreilly.com/library/view/observability-engineering/9781492076438/), [**CNCF Observability Papers**](https://www.cncf.io/) | Observability concepts & practices |
 | Official language docs | Language/Framework details |
 
 ---
