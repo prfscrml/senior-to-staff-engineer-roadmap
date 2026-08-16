@@ -1000,16 +1000,6 @@ Prepare **STAR stories** for:
 - **Principal Engineer:** Add emphasis on strategy, business impact, recognition
 - **Technical Director/VP:** Add emphasis on organizational design, people leadership
 
-### ⏱️ By Time Availability
-
-| Availability | Approach |
-|-------------|----------|
-| 📌 **Intensive (30+ hrs/week)** | Cover full roadmap comprehensively |
-| 📌 **Moderate (15-20 hrs/week)** | Follow stages in order, deliberate pace |
-| 📌 **Part-time (8-12 hrs/week)** | Focus on top priorities by role |
-| 📌 **Minimal (5-8 hrs/week)** | Focus on communication & one core pillar |
-
----
 
 ## ✅ Success Metrics
 
