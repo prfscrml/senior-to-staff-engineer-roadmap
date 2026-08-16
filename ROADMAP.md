@@ -179,7 +179,7 @@ At scale, everything is distributed. You need to understand failure modes, consi
 | 🔴 **Fundamentals** | CAP theorem, Byzantine generals problem, two generals' problem |
 | 🔗 **Consistency Models** | Strong consistency, eventual consistency, causal consistency, linearizability, sequential consistency, weak consistency |
 | 🤝 **Consensus Algorithms** | Raft, Paxos, practical Byzantine fault tolerance, leader election |
-| 📋 **Replication** | Master-slave, multi-master, leaderless replication (Dynamo-style) |
+| 📋 **Replication** | Primary-replica, multi-primary, leaderless replication (Dynamo-style) |
 | ⏰ **Ordering & Causality** | Total order broadcast, causal broadcast, happens-before relations |
 | 🚨 **Failure Detection & Recovery** | Heartbeats, timeouts, suspicion mechanics, recovery protocols |
 | 💼 **Distributed Transactions** | Two-phase commit, saga pattern, compensating transactions |
@@ -466,7 +466,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 ### 🔷 Stage 2: Deep Distributed Systems & Advanced Algorithms
 
-**Goal:** Understand how systems work at scale, master advanced algorithms and data structures
+**Goal:** Understand how systems work at scale, develop expertise in advanced algorithms and data structures
 
 > For brevity, core learning activities continue in similar format. See full ROADMAP for all details.
 
@@ -474,7 +474,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 ### 🔷 Stage 3: System Design & Scale
 
-**Goal:** Develop mastery in designing systems for scale, understand trade-offs deeply
+**Goal:** Develop deep expertise in designing systems for scale, understand trade-offs profoundly
 
 ---
 
