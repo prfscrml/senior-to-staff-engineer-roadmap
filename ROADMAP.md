@@ -395,13 +395,10 @@ This roadmap is organized into **five progressive stages**. Progress through the
 **Learning Activities:**
 - 📖 Read: ["Introduction to Algorithms"](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/) (CLRS) - Chapters 1-10, 20-22
   - OR ["Algorithm Design Manual"](https://www.algorist.com/) by Skiena - Chapters 1-3
-  - ⏱️ Time: 15-20 hours
 - 💻 Implement: All core data structures from scratch
   - Create a DSA library with clean implementations
-  - ⏱️ Time: 10-15 hours
 - 🎯 Practice: Solve 30-40 algorithm problems (LeetCode: Easy to Medium)
   - Focus: Understanding logic, not memorizing
-  - ⏱️ Time: 20-30 hours
 - ✍️ Reflection: Write notes on "When to use X data structure"
 
 **Resources:** 📚 [LeetCode](https://leetcode.com/), [NeetCode](https://neetcode.io/), [AlgoExpert](https://www.algoexpert.io/), [GeeksforGeeks](https://www.geeksforgeeks.org/)
@@ -419,13 +416,9 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Learning Activities:**
 - 📖 Read: ["Test Driven Development: By Example"](https://www.oreilly.com/library/view/test-driven-development/0201616224/) by Kent Beck
-  - ⏱️ Time: 6-8 hours
 - 🔬 Study: Testing your language's ecosystem
-  - ⏱️ Time: 3-4 hours
 - 🛠️ Hands-on: Rewrite a project using TDD (red-green-refactor cycle)
-  - ⏱️ Time: 5-8 hours
 - 🔬 Study: BDD approach and when to use it
-  - ⏱️ Time: 2-3 hours
 
 ---
 
@@ -439,11 +432,8 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Learning Activities:**
 - 📖 Read: ["Java Concurrency in Practice"](https://jcip.net/) by Goetz et al. (Chapters 1-6)
-  - ⏱️ Time: 8-12 hours
 - 🧠 Understand: Your language's concurrency model
-  - ⏱️ Time: 4-6 hours
 - 🛠️ Hands-on: Write multi-threaded code with synchronization
-  - ⏱️ Time: 4-6 hours
 
 ---
 
@@ -457,9 +447,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Learning Activities:**
 - 📖 Read: ["Designing Event-Driven Systems"](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038009/) by Ben Stopford (Chapters 1-6)
-  - ⏱️ Time: 8-10 hours
 - 🛠️ Hands-on: Build a simple event-sourced system
-  - ⏱️ Time: 6-8 hours
 
 ---
 
@@ -473,9 +461,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Learning Activities:**
 - 📖 Read: ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/) by Yuri Shkuro & Charity Majors (Ch. 1-4)
-  - ⏱️ Time: 6-8 hours
 - 🛠️ Hands-on: Instrument a service
-  - ⏱️ Time: 4-6 hours
 
 ---
 
@@ -513,28 +499,23 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 1. **["Designing Data-Intensive Applications"](https://dataintensive.net/)** by Martin Kleppmann
    - 📌 Coverage: Distributed systems, consistency, performance, architecture
-   - ⏱️ Time: 30-40 hours
-   - 🎯 Impact: **Single most important book** for staff engineers
+    - 🎯 Impact: **Single most important book** for staff engineers
 
 2. **["Staff Engineer"](https://staffeng.com/)** by Will Larson
    - 📌 Coverage: What staff engineers do, archetypes, leveling strategies
-   - ⏱️ Time: 4-5 hours
-   - 🎯 Impact: Clarifies the role and how to be effective
+    - 🎯 Impact: Clarifies the role and how to be effective
 
 3. **["Introduction to Algorithms"](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/)** (CLRS) by Cormen, Leiserson, Rivest & Stein
    - 📌 Coverage: Comprehensive DSA reference
-   - ⏱️ Time: 40-60 hours (selective)
-   - 🎯 Impact: Essential algorithmic foundation
+    - 🎯 Impact: Essential algorithmic foundation
 
 4. **["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)** by Fred Brooks
    - 📌 Coverage: Systems thinking, organizational dynamics, design
-   - ⏱️ Time: 8-10 hours
-   - 🎯 Impact: Teaches thinking about large systems and people
+    - 🎯 Impact: Teaches thinking about large systems and people
 
 5. **["Java Concurrency in Practice"](https://jcip.net/)** by Goetz, Peierls, Bloch, Bowbeer, Holmes & Lea *(if JVM)*
    - 📌 Coverage: Concurrency, memory models, synchronization, performance
-   - ⏱️ Time: 12-15 hours
-   - 🎯 Impact: Essential for JVM systems at scale
+    - 🎯 Impact: Essential for JVM systems at scale
 
 #### 🥈 Tier 2: Important (Read Based on Focus)
 
