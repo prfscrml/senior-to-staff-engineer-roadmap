@@ -468,7 +468,62 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Goal:** Understand how systems work at scale, develop expertise in advanced algorithms and data structures
 
-> For brevity, core learning activities continue in similar format. See full ROADMAP for all details.
+#### 1️⃣ Stage 2a: Distributed Systems Theory Fundamentals
+
+**Topics to Master:**
+- CAP theorem and its implications
+- Consistency models: strong, eventual, causal
+- Consensus algorithms: Raft, Paxos, Byzantine Fault Tolerance
+- Replication strategies: primary-replica, multi-primary, leaderless
+- Failure detection and recovery
+
+**Learning Activities:**
+- 📖 Read: ["Designing Data-Intensive Applications"](https://dataintensive.net/) by Martin Kleppmann (Chapters 5-9)
+- 📋 Study: ["The Raft Consensus Algorithm"](https://raft.github.io/raft.pdf) paper
+- 💻 Implement: Build a simple Raft consensus implementation (1000-1500 lines)
+- 🎯 Practice: Design a distributed key-value store with replication
+- ✍️ Reflection: Document trade-offs in different replication models
+
+**Resources:** 📚 [CNCF Distributed Systems Papers](https://www.cncf.io/), [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+
+---
+
+#### 2️⃣ Stage 2b: Advanced Algorithms & Data Structures
+
+**Topics to Master:**
+- Graph algorithms: strongly connected components, max flow, biconnected components
+- Advanced dynamic programming: tree DP, bitmask DP, digit DP
+- String algorithms: suffix arrays, KMP, Rabin-Karp
+- Segment trees, Fenwick trees, and advanced data structures
+- Time complexity optimization and amortized analysis
+
+**Learning Activities:**
+- 📖 Read: ["Algorithm Design Manual"](https://www.algorist.com/) by Skiena (Advanced sections)
+- 💻 Implement: 5-10 complex algorithms with full test coverage
+- 🎯 Practice: Solve 50+ advanced algorithm problems (LeetCode Hard, Codeforces)
+- 🔬 Study: Understand the theory behind each algorithm class
+- ✍️ Reflection: Create implementation notes on when to use which algorithm
+
+**Resources:** 📚 [CLRS](https://mitpress.mit.edu/9780262033848/introduction-to-algorithms/), [LeetCode](https://leetcode.com/), [Codeforces](https://codeforces.com/)
+
+---
+
+#### 3️⃣ Stage 2c: Applied Distributed Systems
+
+**Topics to Master:**
+- Distributed transactions and ACID/BASE trade-offs
+- Message passing and event ordering
+- Two-phase commit and saga patterns
+- Clock synchronization (logical, vector, hybrid)
+- Distributed debugging and observability
+
+**Learning Activities:**
+- 📖 Read: Chapters on transactions from "Designing Data-Intensive Applications"
+- 💻 Hands-on: Build an event-sourced system with distributed ordering guarantees
+- 🧠 Understand: Study real-world implementations (databases, queues, message brokers)
+- 🔬 Study: Paper reviews on distributed transactions
+
+**Resources:** 📚 [Papers We Love](https://paperswelove.org/), academic databases
 
 ---
 
@@ -476,17 +531,231 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Goal:** Develop deep expertise in designing systems for scale, understand trade-offs profoundly
 
+#### 1️⃣ Stage 3a: System Design Fundamentals & Framework
+
+**Topics to Master:**
+- Design methodology and framework for scale systems
+- Requirements gathering and constraint identification
+- Back-of-the-envelope estimation and calculations
+- Trade-offs: consistency vs availability, latency vs throughput
+- Scalability patterns and anti-patterns
+
+**Learning Activities:**
+- 📖 Read: ["Designing Data-Intensive Applications"](https://dataintensive.net/) Part II
+- 📖 Read: ["The Art of Scalability"](https://www.scalability.org/) by Abbott & Fisher
+- 🎯 Practice: Design 5-10 systems from scratch (YouTube clone, Uber backend, etc.)
+- ✍️ Reflection: Write design documents for each system
+- 🛠️ Hands-on: Present designs to peers and gather feedback
+
+**Resources:** 📚 [ByteByteGo System Design](https://www.bytebyteandgo.com/), [HighScalability](http://highscalability.com/)
+
+---
+
+#### 2️⃣ Stage 3b: Database & Storage Systems
+
+**Topics to Master:**
+- Database indexing: B-trees, hash indexes, composite indexes
+- Query optimization and cost-based planning
+- Transaction processing: ACID, isolation levels, MVCC
+- Distributed databases: sharding, partitioning, consistency
+- Search systems: inverted indexes, ranking, Elasticsearch concepts
+
+**Learning Activities:**
+- 📖 Read: ["Database Internals"](https://www.oreilly.com/library/view/database-internals/9781492040330/) by Alex Petrov (or equivalent)
+- 💻 Implement: Build a simple B-tree index from scratch
+- 🧠 Understand: Study PostgreSQL/MySQL internals
+- 🎯 Practice: Design schemas and optimize queries for scale
+- ✍️ Reflection: Document indexing strategies for different query patterns
+
+**Resources:** 📚 Database documentation, system design interviews
+
+---
+
+#### 3️⃣ Stage 3c: Caching, Load Balancing & Rate Limiting
+
+**Topics to Master:**
+- Caching strategies: LRU, TTL, cache coherence
+- Cache placement: client-side, CDN, server-side
+- Load balancing algorithms: round-robin, consistent hashing, Maglev
+- Rate limiting: token bucket, sliding window, distributed coordination
+- API gateway patterns and middleware
+
+**Learning Activities:**
+- 📖 Read: Relevant sections from system design books
+- 💻 Implement: Build a distributed rate limiter
+- 💻 Implement: Build a load balancer with consistent hashing
+- 🎯 Practice: Design caching strategies for various scenarios
+- 🛠️ Hands-on: Analyze production cache hit rates and optimize
+
+**Resources:** 📚 System design courses, distributed systems papers
+
+---
+
+#### 4️⃣ Stage 3d: Reliability, Observability & Operations
+
+**Topics to Master:**
+- Reliability patterns: circuit breakers, retries, timeouts, bulkheads
+- Fault injection and chaos engineering
+- Metrics, logging, and distributed tracing
+- Alerting strategy and incident response
+- Cost optimization and resource management
+
+**Learning Activities:**
+- 📖 Read: ["Release It!"](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard
+- 📖 Read: ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+- 🛠️ Hands-on: Instrument a service with logging, metrics, and tracing
+- 🎯 Practice: Design a monitoring and alerting strategy
+- 🧪 Practice: Run chaos engineering experiments on a system
+
+**Resources:** 📚 [The Site Reliability Engineering Book](https://sre.google/books/), observability tools documentation
+
 ---
 
 ### 🔷 Stage 4: Technology Depth & Modern Practices
 
 **Goal:** Become expert in your core technology and advanced practices
 
+#### 1️⃣ Stage 4a: Language & Platform Deep Dive
+
+**Topics to Master:**
+- Compiler/interpreter internals and optimization (JIT, bytecode, etc.)
+- Memory management: garbage collection, memory models
+- Concurrency primitives: threads, coroutines, async/await
+- Performance profiling and optimization techniques
+- Ecosystem tools and best practices
+
+**Learning Activities:**
+- 📖 Read: ["Java Concurrency in Practice"](https://jcip.net/) (or equivalent for your language)
+- 🔬 Study: Language specification and standards
+- 🛠️ Hands-on: Profile and optimize real code
+- 💻 Implement: Build concurrent data structures from scratch
+- 📊 Analyze: Study performance characteristics of your tech stack
+
+**Resources:** 📚 Language documentation, performance profiling tools, conference talks
+
+---
+
+#### 2️⃣ Stage 4b: Advanced Testing & Quality
+
+**Topics to Master:**
+- Property-based testing and generative testing
+- Mutation testing and test quality metrics
+- Performance testing at scale
+- Fuzz testing and security testing
+- Continuous integration and deployment pipelines
+
+**Learning Activities:**
+- 📖 Read: ["Growing Object-Oriented Software, Guided by Tests"](https://www.oreilly.com/library/view/growing-object-oriented-software/9780321503626/) by Pryce & Freeman
+- 🛠️ Hands-on: Implement property-based tests for critical functions
+- 💻 Practice: Set up mutation testing in a project
+- 🧪 Practice: Design performance test suites for scale scenarios
+- ✍️ Reflection: Document testing strategy for your systems
+
+**Resources:** 📚 Testing frameworks and tools for your stack
+
+---
+
+#### 3️⃣ Stage 4c: Architecture Patterns & Best Practices
+
+**Topics to Master:**
+- Microservices patterns: API gateway, service mesh, event-driven
+- Distributed tracing and observability in practice
+- Infrastructure as Code and deployment automation
+- Security: encryption, authentication, authorization, secrets management
+- API design: versioning, pagination, error handling
+
+**Learning Activities:**
+- 📖 Read: ["Building Microservices"](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) by Sam Newman
+- 🛠️ Hands-on: Design and build a microservices-based system
+- 📋 Study: Infrastructure as Code with Terraform/CloudFormation concepts
+- 🔐 Study: Security best practices and common vulnerabilities
+- ✍️ Reflection: Document architectural decisions and trade-offs
+
+**Resources:** 📚 CNCF projects, architecture pattern libraries
+
 ---
 
 ### 🔷 Stage 5: Communication, Influence & Leadership
 
 **Goal:** Build your visibility, influence, and leadership capability
+
+#### 1️⃣ Stage 5a: Technical Writing & Documentation
+
+**Topics to Master:**
+- Design documents and RFCs (Request for Comments)
+- Architecture Decision Records (ADRs)
+- Technical blog writing and thought leadership
+- Code documentation and runbooks
+- Persuasive technical communication
+
+**Learning Activities:**
+- ✍️ Write: 5+ design documents for major systems
+- ✍️ Write: 5+ technical blog posts (1000-2000 words each)
+- 📖 Read: ["Excellent Advice for Writing"](https://www.penguinrandomhouse.com/books/717347/excellent-advice-for-writing/) by Butcher
+- 🔍 Study: Examples of great technical writing from engineering blogs
+- 📋 Practice: Peer review other engineers' technical documents
+
+**Resources:** 📚 Technical blogs (Netflix, Uber, Airbnb, Stripe), writing guides
+
+---
+
+#### 2️⃣ Stage 5b: Speaking & Public Presence
+
+**Topics to Master:**
+- Structuring compelling technical talks
+- Handling Q&A and difficult questions
+- Conference submissions and speaking opportunities
+- Internal tech talks and brown bag sessions
+- Building online presence (GitHub, Twitter, personal brand)
+
+**Learning Activities:**
+- 🎤 Give: 3+ public talks (conferences, meetups, or company events)
+- 🎤 Give: Monthly internal tech talks
+- 📊 Practice: Prepare conference talk submissions
+- 🎯 Practice: Create a portfolio of public work
+- 💬 Engage: Participate in technical discussions and communities
+
+**Resources:** 📚 Toastmasters, speaking courses, conference CFPs
+
+---
+
+#### 3️⃣ Stage 5c: Mentorship & Team Leadership
+
+**Topics to Master:**
+- Identifying and developing talent
+- Effective feedback and coaching
+- Sponsorship vs mentorship
+- Building high-performing teams
+- Navigating organizational dynamics
+
+**Learning Activities:**
+- 👥 Mentor: 2-3 engineers through visible growth
+- 🎓 Coach: Provide regular 1-on-1 feedback and guidance
+- 📚 Read: ["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) and ["Crucial Conversations"](https://www.vitalsmarts.com/crucial-conversations/)
+- 🧠 Understand: Study org dynamics and influence patterns
+- 📊 Document: Track mentee growth and outcomes
+
+**Resources:** 📚 Leadership books, management training, peer communities
+
+---
+
+#### 4️⃣ Stage 5d: Organizational Influence & Strategy
+
+**Topics to Master:**
+- Building coalitions and consensus
+- Strategic thinking and roadmapping
+- Cross-functional collaboration
+- Decision-making frameworks
+- Managing upward and building credibility
+
+**Learning Activities:**
+- 🤝 Lead: 1-2 org-scale initiatives or working groups
+- 📋 Create: Strategic technical roadmaps
+- 🎯 Practice: Navigate complex organizational decisions
+- 💼 Engage: Build relationships across teams and levels
+- 📊 Communicate: Present strategic initiatives to leadership
+
+**Resources:** 📚 ["Staff Engineer"](https://staffeng.com/) by Will Larson, organizational psychology, case studies
 
 ---
 
