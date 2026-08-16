@@ -414,7 +414,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Test quality metrics: coverage and mutation testing
 
 **Learning Activities:**
-- 📖 Read: ["Test Driven Development: By Example"](https://www.oreilly.com/library/view/test-driven-development/0201616224/) by Kent Beck
+- 📖 Read: ["Test Driven Development: By Example"](https://www.oreilly.com/search/?q=test+driven+development+kent+beck) by Kent Beck
 - 🔬 Study: Testing your language's ecosystem
 - 🛠️ Hands-on: Rewrite a project using TDD (red-green-refactor cycle)
 - 🔬 Study: BDD approach and when to use it
@@ -445,7 +445,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - At-least-once vs exactly-once semantics
 
 **Learning Activities:**
-- 📖 Read: ["Designing Event-Driven Systems"](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038009/) by Ben Stopford (Chapters 1-6)
+- 📖 Read: ["Designing Event-Driven Systems"](https://www.oreilly.com/search/?q=designing+event+driven+systems+stopford) by Ben Stopford (Chapters 1-6)
 - 🛠️ Hands-on: Build a simple event-sourced system
 
 ---
@@ -459,7 +459,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Correlation IDs and context propagation
 
 **Learning Activities:**
-- 📖 Read: ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/) by Yuri Shkuro & Charity Majors (Ch. 1-4)
+- 📖 Read: ["Observability Engineering"](https://www.oreilly.com/search/?q=observability+engineering+shkuro+majors) by Yuri Shkuro & Charity Majors (Ch. 1-4)
 - 🛠️ Hands-on: Instrument a service
 
 ---
@@ -561,7 +561,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Search systems: inverted indexes, ranking, Elasticsearch concepts
 
 **Learning Activities:**
-- 📖 Read: ["Database Internals"](https://www.oreilly.com/library/view/database-internals/9781492040330/) by Alex Petrov (or equivalent)
+- 📖 Read: ["Database Internals"](https://www.oreilly.com/search/?q=database+internals+alex+petrov) by Alex Petrov (or equivalent)
 - 💻 Implement: Build a simple B-tree index from scratch
 - 🧠 Understand: Study PostgreSQL/MySQL internals
 - 🎯 Practice: Design schemas and optimize queries for scale
@@ -602,7 +602,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 
 **Learning Activities:**
 - 📖 Read: ["Release It!"](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard
-- 📖 Read: ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)
+- 📖 Read: ["Observability Engineering"](https://www.oreilly.com/search/?q=observability+engineering+shkuro+majors)
 - 🛠️ Hands-on: Instrument a service with logging, metrics, and tracing
 - 🎯 Practice: Design a monitoring and alerting strategy
 - 🧪 Practice: Run chaos engineering experiments on a system
@@ -645,7 +645,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - Continuous integration and deployment pipelines
 
 **Learning Activities:**
-- 📖 Read: ["Growing Object-Oriented Software, Guided by Tests"](https://www.oreilly.com/library/view/growing-object-oriented-software/9780321503626/) by Pryce & Freeman
+- 📖 Read: ["Growing Object-Oriented Software, Guided by Tests"](https://www.oreilly.com/search/?q=growing+object+oriented+software+tests) by Pryce & Freeman
 - 🛠️ Hands-on: Implement property-based tests for critical functions
 - 💻 Practice: Set up mutation testing in a project
 - 🧪 Practice: Design performance test suites for scale scenarios
@@ -665,7 +665,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 - API design: versioning, pagination, error handling
 
 **Learning Activities:**
-- 📖 Read: ["Building Microservices"](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) by Sam Newman
+- 📖 Read: ["Building Microservices"](https://www.oreilly.com/search/?q=building+microservices+newman) by Sam Newman
 - 🛠️ Hands-on: Design and build a microservices-based system
 - 📋 Study: Infrastructure as Code with Terraform/CloudFormation concepts
 - 🔐 Study: Security best practices and common vulnerabilities
@@ -788,19 +788,19 @@ This roadmap is organized into **five progressive stages**. Progress through the
 #### 🥈 Tier 2: Important (Read Based on Focus)
 
 - ["Algorithm Design Manual"](https://www.algorist.com/) by Steven Skiena (practical DSA)
-- ["Designing Event-Driven Systems"](https://www.oreilly.com/library/view/designing-event-driven-systems/9781492038009/) by Ben Stopford (event-driven architecture)
+- ["Designing Event-Driven Systems"](https://www.oreilly.com/search/?q=designing+event+driven+systems+stopford) by Ben Stopford (event-driven architecture)
 - ["The Art of Scalability"](https://www.scalability.org/) by Abbott & Fisher (scalability patterns)
 - ["Release It!"](https://pragprog.com/titles/mnee2/release-it-second-edition/) by Michael Nygard (reliability and operations)
-- ["Test Driven Development: By Example"](https://www.oreilly.com/library/view/test-driven-development/0201616224/) by Kent Beck (TDD)
-- ["Growing Object-Oriented Software, Guided by Tests"](https://www.oreilly.com/library/view/growing-object-oriented-software/9780321503626/) by Pryce & Freeman
+- ["Test Driven Development: By Example"](https://www.oreilly.com/search/?q=test+driven+development+kent+beck) by Kent Beck (TDD)
+- ["Growing Object-Oriented Software, Guided by Tests"](https://www.oreilly.com/search/?q=growing+object+oriented+software+tests) by Pryce & Freeman
 - ["The Site Reliability Engineering Book"](https://sre.google/books/) by Google (SRE practices)
-- ["Building Microservices"](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/) by Sam Newman (distributed patterns)
+- ["Building Microservices"](https://www.oreilly.com/search/?q=building+microservices+newman) by Sam Newman (distributed patterns)
 
 #### 🥉 Tier 3: Specialized (Read Based on Interest)
 
 - ["Systems Performance"](https://www.brendangregg.com/systems-performance-2nd-edition.html) by Brendan Gregg (performance analysis)
-- ["Observability Engineering"](https://www.oreilly.com/library/view/observability-engineering/9781492076438/) by Yuri Shkuro & Charity Majors
-- ["Chaos Engineering"](https://www.oreilly.com/library/view/chaos-engineering/9781491988459/) by Casey Rosenthal & Nora Jones
+- ["Observability Engineering"](https://www.oreilly.com/search/?q=observability+engineering+shkuro+majors) by Yuri Shkuro & Charity Majors
+- ["Chaos Engineering"](https://www.oreilly.com/search/?q=chaos+engineering+rosenthal+jones) by Casey Rosenthal & Nora Jones
 - ["Excellent Advice for Writing"](https://www.penguinrandomhouse.com/books/717347/excellent-advice-for-writing/) by Butcher (technical writing)
 - ["Crucial Conversations"](https://www.vitalsmarts.com/crucial-conversations/) by Patterson, Grenny, McMillan & Switzler (communication)
 
@@ -822,7 +822,7 @@ This roadmap is organized into **five progressive stages**. Progress through the
 | [**ByteByteGo**](https://www.bytebyteandgo.com/), [**Exponent**](https://www.tryexponent.com/), [**TechMock**](https://www.techmockinterview.com/) | System Design Interview Prep |
 | [**HighScalability**](http://highscalability.com/) | System design case studies |
 | [**Netflix Tech**](https://netflix.techblog.com/), [**Uber Engineering**](https://www.uber.com/en-US/blog/engineering/), [**Airbnb Engineering**](https://medium.com/airbnb-engineering) | Large-scale systems |
-| [**Observability Engineering**](https://www.oreilly.com/library/view/observability-engineering/9781492076438/), [**CNCF Observability Papers**](https://www.cncf.io/) | Observability concepts & practices |
+| [**Observability Engineering**](https://www.oreilly.com/search/?q=observability+engineering+shkuro+majors), [**CNCF Observability Papers**](https://www.cncf.io/) | Observability concepts & practices |
 | Official language docs | Language/Framework details |
 
 ---
