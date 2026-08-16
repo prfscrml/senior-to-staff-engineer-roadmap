@@ -1,6 +1,6 @@
-# 🚀 Staff/Principal Engineer Roadmap
+# 🚀 Universal Staff & Principal Engineer Roadmap
 
-> A comprehensive, self-paced path for senior engineers transitioning to Staff/Principal roles at Tier 1 companies
+> A comprehensive, self-paced path for senior engineers transitioning to Staff & Principal roles at Tier 1 companies
 
 ---
 
@@ -63,7 +63,7 @@ By progressing through this roadmap, you'll develop:
 | 🎤 **Public Presence** | Speaking experience at conferences or meetups |
 | 👥 **Mentorship Skills** | Grown and mentored multiple engineers |
 | 🌍 **Organizational Impact** | Led or influenced org-scale initiatives |
-| 💼 **Interview Readiness** | Confident in Staff/Principal interviews |
+| 💼 **Interview Readiness** | Confident in Staff & Principal interviews |
 
 ## 📁 Repository Contents
 
@@ -96,7 +96,7 @@ Contributions and feedback are welcome to make this roadmap even better.
 | **Created** | August 2026 |
 | **Last Updated** | August 2026 |
 | **Scope** | Universal for all tech stacks |
-| **Target** | Senior engineers → Staff/Principal |
+| **Target** | Senior engineers → Staff & Principal |
 | **Format** | Self-paced, concept-focused |
 
 **Author:** Professor Caramel (Alireza)  
