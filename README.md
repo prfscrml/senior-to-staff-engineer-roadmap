@@ -71,8 +71,6 @@ By progressing through this roadmap, you'll develop:
 |------|---------|
 | **[ROADMAP.md](ROADMAP.md)** | Complete learning path with all activities, resources, papers, and success metrics |
 | **[README.md](README.md)** | Quick start guide (this file) |
-| **[AUDIT_REPORT.md](AUDIT_REPORT.md)** | Comprehensive coverage analysis and quality assessment |
-| **[IMPROVEMENT_PLAN.md](IMPROVEMENT_PLAN.md)** | Enhancement roadmap and priority additions |
 
 ## 💡 How to Use This Roadmap
 
@@ -88,16 +86,7 @@ Contributions and feedback are welcome to make this roadmap even better.
 
 ---
 
-## 📊 Metadata
-
-| Item | Value |
-|------|-------|
-| **Version** | 2.2 |
-| **Created** | August 2026 |
-| **Last Updated** | August 2026 |
-| **Scope** | Universal for all tech stacks |
-| **Target** | Senior engineers → Staff & Principal |
-| **Format** | Self-paced, concept-focused |
-
 **Author:** Professor Caramel (Alireza)  
-**For:** Engineers at Tier 1 companies seeking career growth
+**For:** Engineers at Tier 1 companies seeking career growth  
+**Scope:** Universal for all tech stacks  
+**Format:** Self-paced, concept-focused

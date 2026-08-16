@@ -12,11 +12,10 @@
 
 | Aspect | Details |
 |--------|---------|
-| **Version** | 2.1 |
-| **Created** | August 2026 |
 | **Target** | Senior engineers → Staff & Principal roles |
 | **Timeline** | Self-paced (6-12 months typical) |
 | **Level** | Advanced |
+| **Scope** | Universal across all tech stacks |
 
 <br>
 
