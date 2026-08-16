@@ -1,4 +1,4 @@
-# 🚀 Universal Staff/Principal Engineer Roadmap
+# 🚀 Universal Staff & Principal Engineer Roadmap
 
 > A Comprehensive Self-Paced Path for Senior Engineers at Tier 1 Companies
 
@@ -10,7 +10,7 @@
 |--------|---------|
 | **Version** | 2.1 |
 | **Last Updated** | August 2026 |
-| **Target Audience** | Senior engineers targeting Staff/Principal roles |
+| **Target Audience** | Senior engineers targeting Staff & Principal roles |
 | **Timeline** | Self-paced (6-12 months typical) |
 | **Difficulty** | Advanced |
 
@@ -19,7 +19,7 @@
 ## 📑 Table of Contents
 
 - [🎯 Introduction](#introduction)
-- [💡 What Staff/Principal Actually Means](#what-staffprincipal-actually-means)
+- [💡 What Staff & Principal Actually Means](#what-staff--principal-actually-means)
 - [🏛️ Six Core Pillars](#six-core-pillars)
 - [📚 Learning Path Structure](#learning-path-structure)
 - [📖 Essential Reading & Resources](#essential-reading--resources)
@@ -31,7 +31,7 @@
 
 ## 🎯 Introduction
 
-This roadmap represents a **comprehensive path** for transitioning from Senior to Staff/Principal engineer roles at Tier 1 companies. It's based on:
+This roadmap represents a **comprehensive path** for transitioning from Senior to Staff & Principal engineer roles at Tier 1 companies. It's based on:
 
 > 💼 **What Tier 1 companies actually assess** in Staff interviews (not what they say)  
 > 🏪 **Patterns from successful transitions** at scale companies (Google, Amazon, Meta, Apple, SAP, Zalando, etc.)  
@@ -42,7 +42,7 @@ This roadmap represents a **comprehensive path** for transitioning from Senior t
 
 ---
 
-## 💡 What Staff/Principal Actually Means
+## 💡 What Staff & Principal Actually Means
 
 ### 👥 The Staff Engineer Archetype
 
