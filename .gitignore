@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Java build output
+out/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+
+# Go
+bin/
+*.exe
+*.test
+vendor/
+
+# Node / JS (in case any tooling is added)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.swo
